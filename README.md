@@ -1,16 +1,20 @@
-## :octocat: Hi there!!
+## :pray: Hi there!!
 
 - I'm a backend engineer. 
 - I have experience in software development in the electric power, staffing and recruiting, and manufacturing industries.
 - Object-Oriented Programming and SQL performance tuning are my specialties.
-- Like: Star Wars, Classical Guitar (beginner), Reading, Staying Indoors.
+- Like: *Star Wars*, Classical Guitar (beginner), Reading, Staying Indoors.
 
 ## :hatching_chick: Skills
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=aws,java,js,ts,python,cs,mysql,docker">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksakaguchi17/ksakaguchi17/master/skill-icons\icon-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksakaguchi17/ksakaguchi17/master/skill-icons\icon-light.svg">
+    <img alt="https://skillicons.dev/" src="https://raw.githubusercontent.com/ksakaguchi17/ksakaguchi17/master/skill-icons\icon-dark.svg" />
+    <!-- NOTE: picture.source tag cant render all icons -->
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=aws,java,js,ts,python,cs,mysql,docker">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&i=aws,java,js,ts,python,cs,mysql,docker">
-    <img alt="https://skillicons.dev/" src="https://skillicons.dev/icons?i=aws,java,js,ts,python,cs,mysql,docker" />
+    <img alt="https://skillicons.dev/" src="https://skillicons.dev/icons?i=aws,java,js,ts,python,cs,mysql,docker" /> -->
 </picture>
 
 ## :snail: Activities
