@@ -1,9 +1,6 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  push:
-    branches:
-      - master
   schedule: # execute every 7 days
     - cron: "0 0 */7 * *"
   workflow_dispatch:
