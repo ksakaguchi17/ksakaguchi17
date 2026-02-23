@@ -3,7 +3,7 @@
 - I'm a backend engineer. 
 - I have experience in software development in the electric power, staffing and recruiting, and manufacturing industries.
 - Object-Oriented Programming and SQL performance tuning are my specialties.
-- Like: *Star Wars*, Classical Guitar (beginner), Reading, Staying Indoors.
+- Like: *Star Wars*, Classical Guitar (beginenr, since 2022), Reading, Staying Indoors.
 
 ## :hatching_chick: Skills
 
